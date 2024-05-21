@@ -1,5 +1,6 @@
 {
   "compileOnSave": false,
+  "include": ["src/**/*"],
   "compilerOptions": {
     "importHelpers": true,
     "module": "es2020",
