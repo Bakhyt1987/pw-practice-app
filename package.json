@@ -1,5 +1,6 @@
 {
   "name": "ngx-admin",
+  "type": "module",
   "version": "10.0.0",
   "license": "MIT",
   "repository": {
